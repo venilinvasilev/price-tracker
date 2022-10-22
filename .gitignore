@@ -102,3 +102,6 @@ buck-out/
 
 
 apps/client-mobile-e2e/artifacts
+
+# Next.js
+.next
